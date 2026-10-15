@@ -1,8 +1,8 @@
-# Groundtruth 911 NENA Schema Converter
+# Groundtruth 911 Schema Bridge
 
 Public beta: `v0.9.0-rc1`
 
-The Groundtruth 911 NENA Schema Converter is a free ArcGIS Pro Python toolbox that creates a new NENA interchange geodatabase while leaving the source geodatabase unchanged.
+The Groundtruth 911 Schema Bridge is a free ArcGIS Pro Python toolbox that creates a new NENA interchange geodatabase while leaving the source geodatabase unchanged.
 
 Supported conversions:
 
