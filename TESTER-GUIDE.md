@@ -2,7 +2,7 @@
 
 Version: `v0.9.0-rc1`
 
-Thank you for testing the Groundtruth 911 NENA Schema Converter. Start with the included fictional sample. That gives us a comparable result across ArcGIS Pro versions before anyone uses local data.
+Thank you for testing the Groundtruth 911 Schema Bridge. Start with the included fictional sample. That gives us a comparable result across ArcGIS Pro versions before anyone uses local data.
 
 ## Before you begin
 
